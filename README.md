@@ -18,7 +18,7 @@ A curated collection of awesome deep spectral clustering methods, papers, implem
 | Clustering-Friendly Representation Learning via Instance Discrimination and Feature Decorrelation | IDFD | ICLR 2021 | [Pytorch](https://github.com/TTN-YKK/Clustering_friendly_representation_learning) |
 | Adaptive Graph Auto-Encoder for General Data Clustering | AdaGAE | TPAMI 2022 | [Pytorch](https://github.com/hyzhang98/AdaGAE) |
 | LSD-C: Linearly Separable Deep Clusters | LSD-C | ICCV 2021 | [Pytorch](https://github.com/srebuffi/lsd-clusters) |
-
+| Deep Clustering via Probabilistic Ratio-Cut Optimization | PRCut | AISTATS 2025 | [Pytorch](https://github.com/ayghri/prcut) |
 
 
 
