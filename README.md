@@ -6,7 +6,7 @@ A curated collection of awesome deep spectral clustering methods, papers, implem
 | SpectralNet: Spectral Clustering using Deep Neural Networks | SpectralNet | ICLR 2018 | [Pytorch](https://github.com/shaham-lab/SpectralNet) |
 | BASiS: Batch Aligned Spectral Embedding Space | BASiS | CVPR 2023 | [Pytorch](https://github.com/orrShtr/BASiS) |
 | Learning Deep Representations for Graph Clustering | GraphEncoder | AAAI 2014 | [Pytorch](https://github.com/zepx/graphencoder) |
-| A Simple Approach to Automated Spectral Clustering | AutoSC | NeurIPS 2022 | [MATLAB](https://github.com/jicongfan/Automated-Spectral-Clustering) |
+| A Simple Approach to Automated Spectral Clustering | AutoSC | NeurIPS 2022 | [Matlab](https://github.com/jicongfan/Automated-Spectral-Clustering) |
 | Deep Spectral Clustering using Dual Autoencoder Network |  | CVPR 2019 |  |
 | Bootstrap Deep Spectral Clustering with Optimal Transport | BootSC | TMM 2025 | [Pytorch](https://github.com/spdj2271/BootSC) |
 | Deep Spectral Clustering via Simultaneous Spectral Embedding and Entropy Minimization | DSC | SMC 2024 | [TensorFlow](https://github.com/spdj2271/DSC) |
