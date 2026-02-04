@@ -10,6 +10,11 @@ A curated collection of awesome deep spectral clustering methods, papers, implem
 | Deep Spectral Clustering using Dual Autoencoder Network |  | CVPR 2019 |  |  |
 | Bootstrap Deep Spectral Clustering with Optimal Transport | BootSC | TMM 2025 |  [Pytorch](https://github.com/spdj2271/BootSC) | | 
 | Deep Spectral Clustering via Simultaneous Spectral Embedding and Entropy Minimization| DSC | SMC 2024 | [Pytorch](https://github.com/spdj2271/DSC) | | 
+| Graph Contrastive Clustering| GCC | ICCV 2021 | [Pytorch](https://github.com/mynameischaos/GCC) | | 
+| SpecNet2: Orthogonalization-free spectral embedding by neural networks| SpecNet2 | MSML 2022 | [Pytorch](https://github.com/ziyuchen7/SpecNet2) | | 
+
+
+
 
 ## ℹ️ Disclaimer
 All papers and code belong to their original authors. This repository is for educational and research purposes only. If you are the author of any work listed here and would like it modified or removed, please contact us.
