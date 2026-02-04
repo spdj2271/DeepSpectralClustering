@@ -13,12 +13,13 @@ A curated collection of awesome deep spectral clustering methods, papers, implem
 | Graph Contrastive Clustering | GCC | ICCV 2021 | [Pytorch](https://github.com/mynameischaos/GCC) |
 | SpecNet2: Orthogonalization-free spectral embedding by neural networks | SpecNet2 | MSML 2022 | [Pytorch](https://github.com/ziyuchen7/SpecNet2) |
 | Neural Normalized Cut: A Differential and Generalizable Approach for Spectral Clustering | NeuNcut | PR 2025 | [Pytorch](https://github.com/hewei98/NeuNcut) |
+| Generalized Clustering by Learning to Optimize Expected Normalized Cuts | CNC | Arxiv 2025 | [Tensorflow](https://github.com/google-research/google-research/tree/master/clustering_normalized_cuts) |
 
 
 
 
 ## ℹ️ Disclaimer
-All papers and code belong to their original authors. This repository is for educational and research purposes only. If you are the author of any work listed here and would like it modified or removed, please contact us.
+All papers and code belong to their original authors. The order of papers does not imply any ranking. This repository is for educational and research purposes only. If you are the author of any work listed here and would like it modified or removed, please contact us.
 
 
 ## 🤝 Contributing
