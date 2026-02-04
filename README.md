@@ -1,2 +1,18 @@
-# DeepSpectralClustering
-A curated collection of deep spectral clustering methods, papers, implementations, and resources.
+# ✨ Deep Spectral Clustering
+A curated collection of awesome deep spectral clustering methods, papers, implementations, and resources.
+
+| Paper | Method | Conference | Code | Key Idea |
+|---|---|---|---|---|
+| SpectralNet: Spectral Clustering using Deep Neural Networks | SpectralNet | ICLR 2018 | [Pytorch](https://github.com/shaham-lab/SpectralNet) |  |
+| BASiS: Batch Aligned Spectral Embedding Space | BASiS | CVPR 2023 | [Pytorch](https://github.com/orrShtr/BASiS) |  |
+| Learning Deep Representations for Graph Clustering | GraphEncoder | AAAI 2014 | |  |
+| A Simple Approach to Automated Spectral Clustering | AutoSC | NeurIPS 2022 | [MATLAB](https://github.com/jicongfan/Automated-Spectral-Clustering) |  |
+| Deep Spectral Clustering using Dual Autoencoder Network |  | CVPR 2019 |  |  |
+| Bootstrap Deep Spectral Clustering with Optimal Transport | BootSC | TMM 2025 |  [Pytorch](https://github.com/spdj2271/BootSC) | | 
+| Deep Spectral Clustering via Simultaneous Spectral Embedding and Entropy Minimization| DSC | SMC 2024 | [Pytorch](https://github.com/spdj2271/DSC) | | 
+
+## ℹ️ Disclaimer
+All papers and code belong to their original authors. This repository is for educational and research purposes only. If you are the author of any work listed here and would like it modified or removed, please contact us.
+
+## 🤝 Contributing
+Contributions and additions are welcome! Feel free to open an issue or submit a pull request.
