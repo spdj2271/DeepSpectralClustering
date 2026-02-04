@@ -15,6 +15,9 @@ A curated collection of awesome deep spectral clustering methods, papers, implem
 | Neural Normalized Cut: A Differential and Generalizable Approach for Spectral Clustering | NeuNcut | PR 2025 | [Pytorch](https://github.com/hewei98/NeuNcut) |
 | Generalized Clustering by Learning to Optimize Expected Normalized Cuts | CNC | Arxiv 2025 | [Tensorflow](https://github.com/google-research/google-research/tree/master/clustering_normalized_cuts) |
 | Clustering-Friendly Representation Learning via Instance Discrimination and Feature Decorrelation | IDFD | ICLR 2021 | [Pytorch](https://github.com/TTN-YKK/Clustering_friendly_representation_learning) |
+| Adaptive Graph Auto-Encoder for General Data Clustering | AdaGAE | TPAMI 2022 | [Pytorch](https://github.com/hyzhang98/AdaGAE) |
+
+
 
 
 
