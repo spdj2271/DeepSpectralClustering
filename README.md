@@ -12,6 +12,9 @@ A curated collection of awesome deep spectral clustering methods, papers, implem
 | Deep Spectral Clustering via Simultaneous Spectral Embedding and Entropy Minimization | DSC | SMC 2024 | [TensorFlow](https://github.com/spdj2271/DSC) |
 | Graph Contrastive Clustering | GCC | ICCV 2021 | [Pytorch](https://github.com/mynameischaos/GCC) |
 | SpecNet2: Orthogonalization-free spectral embedding by neural networks | SpecNet2 | MSML 2022 | [Pytorch](https://github.com/ziyuchen7/SpecNet2) |
+| Neural Normalized Cut: A Differential and Generalizable Approach for Spectral Clustering | NeuNcut | PR 2025 | [Pytorch](https://github.com/hewei98/NeuNcut) |
+
+
 
 
 ## ℹ️ Disclaimer
