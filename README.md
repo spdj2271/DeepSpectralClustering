@@ -20,7 +20,8 @@ A curated collection of awesome deep spectral clustering methods, papers, implem
 | Deep Clustering via Probabilistic Ratio-Cut Optimization | PRCut | AISTATS 2025 | [Pytorch](https://github.com/ayghri/prcut) |
 | Deep Tensor Spectral Clustering Network via Ensemble of Multiple Affinity Tensors | TSC-Net | TPAMI 2024 |  |
 
-|||||
+| Paper | Method | Conference | Code |
+|---|---|---|---|
 | Deep Adaptive Image Clustering | DAC | ICCV 2017 | [Keras](https://github.com/vector-1127/DAC) |
 | Deep Metric Learning via Facility Location |  | CVPR 2017 | [Tensorflow](https://github.com/CongWeilin/cluster-loss-tensorflow?tab=readme-ov-file) |
 | LSD-C: Linearly Separable Deep Clusters | LSD-C | ICCV 2021 | [Pytorch](https://github.com/srebuffi/lsd-clusters) |
