@@ -19,6 +19,8 @@ A curated collection of awesome deep spectral clustering methods, papers, implem
 | Adaptive Graph Auto-Encoder for General Data Clustering | AdaGAE | TPAMI 2022 | [Pytorch](https://github.com/hyzhang98/AdaGAE) |
 | Deep Clustering via Probabilistic Ratio-Cut Optimization | PRCut | AISTATS 2025 | [Pytorch](https://github.com/ayghri/prcut) |
 | Deep Tensor Spectral Clustering Network via Ensemble of Multiple Affinity Tensors | TSC-Net | TPAMI 2024 |  |
+| Learning Structure Aware Deep Spectral Embedding | SADSE | TIP 2023 | |
+
 
 | Paper | Method | Conference | Code |
 |---|---|---|---|
