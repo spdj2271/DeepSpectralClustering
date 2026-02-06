@@ -6,7 +6,6 @@ A curated collection of awesome deep spectral clustering methods, papers, implem
 | SpectralNet: Spectral Clustering using Deep Neural Networks | SpectralNet | ICLR 2018 | [Pytorch](https://github.com/shaham-lab/SpectralNet) |
 | BASiS: Batch Aligned Spectral Embedding Space | BASiS | CVPR 2023 | [Pytorch](https://github.com/orrShtr/BASiS) |
 | Deep Spectral Clustering Learning |  | ICML 2017 | [Pytorch](https://github.com/MarcTLaw/DeepSpectralClusteringToy/tree/master) |
-| Deep Adaptive Image Clustering | DAC | ICCV 2017 | [Keras](https://github.com/vector-1127/DAC) |
 | Learning Deep Representations for Graph Clustering | GraphEncoder | AAAI 2014 | [Pytorch](https://github.com/zepx/graphencoder) |
 | A Simple Approach to Automated Spectral Clustering | AutoSC | NeurIPS 2022 | [Matlab](https://github.com/jicongfan/Automated-Spectral-Clustering) |
 | Deep Spectral Clustering using Dual Autoencoder Network |  | CVPR 2019 |  |
@@ -20,8 +19,8 @@ A curated collection of awesome deep spectral clustering methods, papers, implem
 | Adaptive Graph Auto-Encoder for General Data Clustering | AdaGAE | TPAMI 2022 | [Pytorch](https://github.com/hyzhang98/AdaGAE) |
 | LSD-C: Linearly Separable Deep Clusters | LSD-C | ICCV 2021 | [Pytorch](https://github.com/srebuffi/lsd-clusters) |
 | Deep Clustering via Probabilistic Ratio-Cut Optimization | PRCut | AISTATS 2025 | [Pytorch](https://github.com/ayghri/prcut) |
-
-
+| Deep Adaptive Image Clustering | DAC | ICCV 2017 | [Keras](https://github.com/vector-1127/DAC) |
+| Deep Metric Learning via Facility Location |  | CVPR 2017 | [Tensorflow](https://github.com/CongWeilin/cluster-loss-tensorflow?tab=readme-ov-file) |
 
 
 
