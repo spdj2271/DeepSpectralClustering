@@ -21,6 +21,7 @@ A curated collection of awesome deep spectral clustering methods, papers, implem
 | Deep Clustering via Probabilistic Ratio-Cut Optimization | PRCut | AISTATS 2025 | [Pytorch](https://github.com/ayghri/prcut) |
 | Deep Tensor Spectral Clustering Network via Ensemble of Multiple Affinity Tensors | TSC-Net | TPAMI 2024 |  |
 | Learning Structure Aware Deep Spectral Embedding | SADSE | TIP 2023 | |
+| Unsupervised Deep Spectral Basis Learning for Generalized Eigendecomposition and Spectral Embedding | SBL | TNNLS 2026 | [Tensorflow](https://github.com/DYS2108/SBL)|
 
 
 | Paper | Method | Conference | Code |
