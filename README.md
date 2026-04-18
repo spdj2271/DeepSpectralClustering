@@ -1,4 +1,4 @@
-# ✨ Deep Spectral Clustering
+# ✨ Awesome Deep Spectral Clustering Methods
 A curated collection of awesome deep spectral clustering methods, papers, implementations, and resources.
 
 | Paper | Method | Conference | Code |
