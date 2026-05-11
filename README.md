@@ -8,6 +8,7 @@ A curated collection of awesome deep spectral clustering methods, papers, implem
 | Deep Clustering via Probabilistic Ratio-Cut Optimization | PRCut | AISTATS 2025 | [Pytorch](https://github.com/ayghri/prcut) |
 | Bootstrap Deep Spectral Clustering with Optimal Transport | BootSC | TMM 2025 | [Pytorch](https://github.com/spdj2271/BootSC) |
 |  |  |  | |
+| Deep Clustering Based on Sparse Kolmogorov-Arnold Network and Spectral Constraint | KANSC | AAAI 2026 | [Pytorch](https://github.com/bizixuan/sparse_kan_SC) |
 | Unsupervised Deep Spectral Basis Learning for Generalized Eigendecomposition and Spectral Embedding | SBL | TNNLS 2026 | [Tensorflow](https://github.com/DYS2108/SBL) |
 | Neural Normalized Cut: A Differential and Generalizable Approach for Spectral Clustering | NeuNcut | PR 2025 | [Pytorch](https://github.com/hewei98/NeuNcut) |
 | Generalized Clustering by Learning to Optimize Expected Normalized Cuts | CNC | Arxiv 2025 | [Tensorflow](https://github.com/google-research/google-research/tree/master/clustering_normalized_cuts) |
