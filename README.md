@@ -5,24 +5,25 @@ A curated collection of awesome deep spectral clustering methods, papers, implem
 |---|---|---|---|
 | SpectralNet: Spectral Clustering using Deep Neural Networks | SpectralNet | ICLR 2018 | [Pytorch](https://github.com/shaham-lab/SpectralNet) |
 | BASiS: Batch Aligned Spectral Embedding Space | BASiS | CVPR 2023 | [Pytorch](https://github.com/orrShtr/BASiS) |
+| Deep Clustering via Probabilistic Ratio-Cut Optimization | PRCut | AISTATS 2025 | [Pytorch](https://github.com/ayghri/prcut) |
+| Bootstrap Deep Spectral Clustering with Optimal Transport | BootSC | TMM 2025 | [Pytorch](https://github.com/spdj2271/BootSC) |
+|  |  |  | |
+| Unsupervised Deep Spectral Basis Learning for Generalized Eigendecomposition and Spectral Embedding | SBL | TNNLS 2026 | [Tensorflow](https://github.com/DYS2108/SBL) |
+| Neural Normalized Cut: A Differential and Generalizable Approach for Spectral Clustering | NeuNcut | PR 2025 | [Pytorch](https://github.com/hewei98/NeuNcut) |
+| Generalized Clustering by Learning to Optimize Expected Normalized Cuts | CNC | Arxiv 2025 | [Tensorflow](https://github.com/google-research/google-research/tree/master/clustering_normalized_cuts) |
+| Deep Clustering via Probabilistic Ratio-Cut Optimization | PRCut | AISTATS 2025 | [Pytorch](https://github.com/ayghri/prcut) |
+| Deep Spectral Clustering via Simultaneous Spectral Embedding and Entropy Minimization | DSC | SMC 2024 | [TensorFlow](https://github.com/spdj2271/DSC) |
+| Deep Tensor Spectral Clustering Network via Ensemble of Multiple Affinity Tensors | TSC-Net | TPAMI 2024 |  |
+| Learning Structure Aware Deep Spectral Embedding | SADSE | TIP 2023 | |
+| A Simple Approach to Automated Spectral Clustering | AutoSC | NeurIPS 2022 | [Matlab](https://github.com/jicongfan/Automated-Spectral-Clustering) |
+| SpecNet2: Orthogonalization-free spectral embedding by neural networks | SpecNet2 | MSML 2022 | [Pytorch](https://github.com/ziyuchen7/SpecNet2) |
+| Adaptive Graph Auto-Encoder for General Data Clustering | AdaGAE | TPAMI 2022 | [Pytorch](https://github.com/hyzhang98/AdaGAE) |
+| Graph Contrastive Clustering | GCC | ICCV 2021 | [Pytorch](https://github.com/mynameischaos/GCC) |
+| Clustering-Friendly Representation Learning via Instance Discrimination and Feature Decorrelation | IDFD | ICLR 2021 | [Pytorch](https://github.com/TTN-YKK/Clustering_friendly_representation_learning) |
+| Deep Spectral Clustering using Dual Autoencoder Network | DSCDAN | CVPR 2019 | [Tensorflow](https://github.com/xdxuyang/Deep-Spectral-Clustering-using-Dual-Autoencoder-Network) |
 | Deep Spectral Clustering Learning | DSCL | ICML 2017 | [Pytorch](https://github.com/MarcTLaw/DeepSpectralClusteringToy/tree/master) |
 | Deep Subspace Clustering Networks | DSC-Net | NeurIPS 2017 | [Tensorflow](https://github.com/panji530/Deep-subspace-clustering-networks) |
 | Learning Deep Representations for Graph Clustering | GraphEncoder | AAAI 2014 | [Pytorch](https://github.com/zepx/graphencoder) |
-| A Simple Approach to Automated Spectral Clustering | AutoSC | NeurIPS 2022 | [Matlab](https://github.com/jicongfan/Automated-Spectral-Clustering) |
-| Deep Spectral Clustering using Dual Autoencoder Network | DSCDAN | CVPR 2019 | [Tensorflow](https://github.com/xdxuyang/Deep-Spectral-Clustering-using-Dual-Autoencoder-Network) |
-| Bootstrap Deep Spectral Clustering with Optimal Transport | BootSC | TMM 2025 | [Pytorch](https://github.com/spdj2271/BootSC) |
-| Deep Spectral Clustering via Simultaneous Spectral Embedding and Entropy Minimization | DSC | SMC 2024 | [TensorFlow](https://github.com/spdj2271/DSC) |
-| Graph Contrastive Clustering | GCC | ICCV 2021 | [Pytorch](https://github.com/mynameischaos/GCC) |
-| SpecNet2: Orthogonalization-free spectral embedding by neural networks | SpecNet2 | MSML 2022 | [Pytorch](https://github.com/ziyuchen7/SpecNet2) |
-| Neural Normalized Cut: A Differential and Generalizable Approach for Spectral Clustering | NeuNcut | PR 2025 | [Pytorch](https://github.com/hewei98/NeuNcut) |
-| Generalized Clustering by Learning to Optimize Expected Normalized Cuts | CNC | Arxiv 2025 | [Tensorflow](https://github.com/google-research/google-research/tree/master/clustering_normalized_cuts) |
-| Clustering-Friendly Representation Learning via Instance Discrimination and Feature Decorrelation | IDFD | ICLR 2021 | [Pytorch](https://github.com/TTN-YKK/Clustering_friendly_representation_learning) |
-| Adaptive Graph Auto-Encoder for General Data Clustering | AdaGAE | TPAMI 2022 | [Pytorch](https://github.com/hyzhang98/AdaGAE) |
-| Deep Clustering via Probabilistic Ratio-Cut Optimization | PRCut | AISTATS 2025 | [Pytorch](https://github.com/ayghri/prcut) |
-| Deep Tensor Spectral Clustering Network via Ensemble of Multiple Affinity Tensors | TSC-Net | TPAMI 2024 |  |
-| Learning Structure Aware Deep Spectral Embedding | SADSE | TIP 2023 | |
-| Unsupervised Deep Spectral Basis Learning for Generalized Eigendecomposition and Spectral Embedding | SBL | TNNLS 2026 | [Tensorflow](https://github.com/DYS2108/SBL)|
-
 
 | Paper | Method | Conference | Code |
 |---|---|---|---|
