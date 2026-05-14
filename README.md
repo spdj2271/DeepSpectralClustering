@@ -7,6 +7,7 @@ A curated collection of awesome deep spectral clustering methods, papers, implem
 | BASiS: Batch Aligned Spectral Embedding Space | BASiS | CVPR 2023 | [Pytorch](https://github.com/orrShtr/BASiS) |
 | Deep Clustering via Probabilistic Ratio-Cut Optimization | PRCut | AISTATS 2025 | [Pytorch](https://github.com/ayghri/prcut) |
 | Bootstrap Deep Spectral Clustering with Optimal Transport | BootSC | TMM 2025 | [Pytorch](https://github.com/spdj2271/BootSC) |
+| Beyond Spectral Clustering: Probabilistic Cuts for Differentiable Graph Partitioning | H-NCut | AISTATS 2026 | [Pytorch](https://github.com/ayghri/pgcuts) |
 |  |  |  | |
 | Deep Clustering Based on Sparse Kolmogorov-Arnold Network and Spectral Constraint | KANSC | AAAI 2026 | [Pytorch](https://github.com/bizixuan/sparse_kan_SC) |
 | Unsupervised Deep Spectral Basis Learning for Generalized Eigendecomposition and Spectral Embedding | SBL | TNNLS 2026 | [Tensorflow](https://github.com/DYS2108/SBL) |
